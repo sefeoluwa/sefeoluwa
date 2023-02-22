@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://sefeoluwaakinbeye.wixsite.com/sefeakinbeye](https://sefeoluwaakinbeye.wixsite.com/sefeakinbeye)
 
-- 💬 Ask me about **Landing page and responsive sites**
+- 💬 Ask me about **Landing pages and responsive sites**
 
 - 📫 How to reach me **sefeoluwaakinbeye@gmail.com**
 
