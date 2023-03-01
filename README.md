@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefeoluwa" alt="sefeoluwa" /></a> </p>
 
-- 🔭 I’m currently working on **A sketchpad called Etch-a-Sketch**
+- 🔭 I’m currently working on **A calculator. I'm building it with HTML, CSS, and JavaScript**
 
 - 🌱 I’m currently learning **Full-Stack web development with JavaScript at The Odin Project**
 
