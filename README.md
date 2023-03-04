@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full-Stack web development with JavaScript at The Odin Project**
 
-- 📝 I regularly write articles on [https://sefeoluwaakinbeye.wixsite.com/sefeakinbeye](https://sefeoluwaakinbeye.wixsite.com/sefeakinbeye)
+- 📝 I regularly publish my projects on here. 
 
 - 💬 Ask me about **Landing pages and responsive sites**
 
 - 📫 How to reach me **sefeoluwaakinbeye@gmail.com**
 
-- 📄 Know about my experiences [https://82f377d1-043c-4f4f-8830-be4082368c93.filesusr.com/ugd/95506c_075827dbe8964c739c9bd4849f0e4d29.pdf](https://82f377d1-043c-4f4f-8830-be4082368c93.filesusr.com/ugd/95506c_075827dbe8964c739c9bd4849f0e4d29.pdf)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I read jokes and solve riddles for fun**
 
