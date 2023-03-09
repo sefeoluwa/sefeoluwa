@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack web development with JavaScript at The Odin Project**
 
-- 📝 I regularly publish my projects on here. 
+- 📝 I regularly publish my projects here. 
 
 - 💬 Ask me about **Landing pages and responsive sites**
 
