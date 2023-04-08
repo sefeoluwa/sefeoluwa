@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences 
 
-- ⚡ Fun fact **I read jokes and solve riddles for fun**
+- ⚡ Fun fact, **I'm ambidextrous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
