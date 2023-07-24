@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefeoluwa" alt="sefeoluwa" /></a> </p>
 
-- 🔭 I’m currently working on **A calculator. I'm building it with HTML, CSS, and JavaScript**
+- 🔭 I’m currently working on **A food order app landing page. I'm building it with React.JS**
 
 - 🌱 I’m currently learning **Full-Stack web development with JavaScript at The Odin Project**
 
 - 📝 I regularly publish my projects here. 
-
-- 💬 Ask me about **Landing pages and responsive sites**
 
 - 📫 How to reach me **sefeoluwaakinbeye@gmail.com**
 
