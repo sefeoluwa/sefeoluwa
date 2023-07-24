@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sefeoluwaakinbeye@gmail.com**
 
-- 📄 Know about my experiences 
-
 - ⚡ Fun fact, **I'm ambidextrous**
 
 <h3 align="left">Connect with me:</h3>
