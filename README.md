@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A blog page. I'm building it with Next.js and GraphQL<br><br>🌱 I’m learning Full-Stack web development with JavaScript at The Odin Project<br><br>📝 I regularly publish my projects here and on LinkedIn.<br><br>📫 How to reach me: sefeoluwaakinbeye@gmail.com<br><br>⚡ Fun fact, I'm ambidextrous
+🔭 I’m currently working on A CV Builder. I'm building it with React.js <br><br>🌱 I’m learning Full-Stack web development with JavaScript at The Odin Project<br><br>📝 I regularly publish my projects here and on LinkedIn.<br><br>📫 How to reach me: sefeoluwaakinbeye@gmail.com<br><br>⚡ Fun fact, I'm ambidextrous
 
 
 ## 🌐 Socials:
