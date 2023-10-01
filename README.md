@@ -18,6 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/sefeoluwa/sefeoluwa/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
