@@ -61,3 +61,5 @@
 - 📖 Reading fictional books
 - 📘 Exploring self-help literature
 - 🎭 Animation and Motion Design
+
+## ✨ Featured Projects 👇
