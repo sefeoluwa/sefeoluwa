@@ -1,8 +1,9 @@
 <div align="center">
   <h1>👋 Hello, I'm Sefeoluwa Akinbeye</h1>
   <p>
-    <strong>Frontend Engineer Intern at Talent Sphere Africa</strong> |
-    <strong>JavaScript and ReactJS Enthusiast</strong>
+    <strong>a Frontend Engineer Intern</strong> |
+    building modern websites with
+    <strong>JavaScript and ReactJS</strong>
   </p>
   <p>
     <a href="mailto:sefeoluwaakinbeye@gmail.com">
